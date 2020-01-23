@@ -17,8 +17,9 @@ A zero struggle way to get high quality MP3 files from across the Internet
 
 _PleasureSaver_ is a command-line program that uses youtube-dl to download the highest posible audio source from the provided url, and then convert it to MP3 format using ffmpeg converter. 
 The downloaded audio file will be located on `psDownloads/` and you will found the converted ones on `psConverted/`.
-The output text of youtube-dl and ffmpeg can be found on the `logs/` folder
-*Supported Sites:* _[ytdl-org.github.io/youtube-dl/supportedsites]http://ytdl-org.github.io/youtube-dl/supportedsites.html_
+The output text of youtube-dl and ffmpeg can be found on the `logs/` folder.
+
+*Supported Sites:* [ytdl-org.github.io/youtube-dl/supportedsites](http://ytdl-org.github.io/youtube-dl/supportedsites.html)
 
 ## Instructions
 
