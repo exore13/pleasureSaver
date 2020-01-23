@@ -9,7 +9,9 @@ A zero struggle way to get high quality MP3 files from across the Internet
 
 
 **Latest Stable Release:** [`v0.1j`](https://github.com/exore13/pleasureSaver/raw/master/builds/v0.1j/Release%20v0.1j.7z)
+
 **Support:**  _dtanase22@gmail.com_
+
 **Supported Sites:** _http://ytdl-org.github.io/youtube-dl/supportedsites.html_
 
 ## Description
