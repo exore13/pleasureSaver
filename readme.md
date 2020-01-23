@@ -23,7 +23,7 @@ The output text of youtube-dl and ffmpeg can be found on the `logs/` folder.
 
 ## Instructions
 
-- Open a terminal on the folder. `cmd` and `powershell` work fine
+- Open a terminal. `cmd` and `powershell` work fine
 
 ```
 java -jar .\pleasureSaver.jar
