@@ -26,7 +26,7 @@ The output text of youtube-dl and ffmpeg can be found on the `logs/` folder.
 - Open a terminal. `cmd` and `powershell` work fine
 
 ```
-java -jar .\pleasureSaver.jar
+java -jar .\psProject.jar
 ```
 
 - Introduce the URLs to download
