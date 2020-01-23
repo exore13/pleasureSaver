@@ -8,7 +8,7 @@ A zero struggle way to get high quality MP3 files from across the Internet
 
 
 
-**Latest Stable Release:** [`v0.1j`](https://github.com/exore13/pleasureSaver/raw/master/builds/v0.1j/Release%20v0.1j.7z)
+**Latest Stable Release:** [`v0.2j`](https://github.com/exore13/pleasureSaver/raw/master/builds/v0.2j/Release%20v0.2j.7z)
 
 **Support:**  _dtanase22@gmail.com_
 
@@ -35,3 +35,14 @@ java -jar .\pleasureSaver.jar
 ## Requirements
 - Java 8: [java.com/en/download](https://java.com/en/download/)
 - Microsoft VC Redist x86 2010: [microsoft.com/en-us/download/details.aspx?id=5555](https://www.microsoft.com/en-us/download/details.aspx?id=5555)
+
+```
+ .d8888b.                         888 888888b.            d8b 
+d88P  Y88b                        888 888  "88b           Y8P 
+888    888                        888 888  .88P               
+888         .d88b.   .d88b.   .d88888 8888888K.   .d88b.  888 
+888  88888 d88""88b d88""88b d88" 888 888  "Y88b d88""88b 888 
+888    888 888  888 888  888 888  888 888    888 888  888 888 
+Y88b  d88P Y88..88P Y88..88P Y88b 888 888   d88P Y88..88P 888 
+ "Y8888P88  "Y88P"   "Y88P"   "Y88888 8888888P"   "Y88P"  888 
+```
