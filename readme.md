@@ -7,8 +7,7 @@ A zero struggle way to get high quality MP3 files from across the Internet
 - [Requirements](#Requirements)
 
 
-
-**Latest Stable Release:** [`v0.2j`](https://github.com/exore13/pleasureSaver/raw/master/builds/v0.2j/Release%20v0.2j.7z)
+**Latest Stable Release:** [`v0.2j`](https://github.com/exore13/pleasureSaver/raw/master/builds/v0.2j/v0.2j.7z)
 
 **Support:**  _dtanase22@gmail.com_
 
@@ -26,7 +25,7 @@ The output text of youtube-dl and ffmpeg can be found on the `logs/` folder.
 - Open a terminal. `cmd` and `powershell` work fine
 
 ```
-java -jar .\pleasureSaver.jar
+java -jar .\psProject.jar
 ```
 
 - Introduce the URLs to download
