@@ -25,6 +25,4 @@ hs_err_pid*
 
 ##  Extra rules for this project
 # Folders created while testing
-psConverted/
-psDownloads/
-logs/
+psProject/
