@@ -7,7 +7,7 @@ A zero struggle way to get high quality MP3 files from across the Internet
 - [Requirements](#Requirements)
 
 
-**Latest Stable Release:** [`v0.2j`](https://github.com/exore13/pleasureSaver/raw/master/builds/v0.2j/v0.2j.7z)
+**Latest Stable Release:** [`v0.2j`](https://github.com/exore13/pleasureSaver/releases/tag/v0.2j)
 
 **Support:**  _dtanase22@gmail.com_
 
